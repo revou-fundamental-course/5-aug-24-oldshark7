@@ -1,0 +1,111 @@
+.gender {
+    display: inline; /* the default for span */
+}
+
+.hook {
+    width: 100%;
+}
+
+.form {
+    width: 100%;
+    padding: 10px;
+    background-color: #f2f2f2;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+#weight {
+    width: 506px;
+    height: 30px;
+    border-width: 0px;
+}
+
+#age {
+    width: 506px;
+    height: 30px;
+    border-width: 0px;
+}
+
+#height {
+    width: 506px;
+    height: 30px;
+    border-width: 0px;
+}
+
+
+.btn_hasil {
+    margin-top: 50px;
+    height: 35px;
+    width: 100px;
+    background-color: rgb(31, 178, 204);
+    border-radius: 3px;
+    border-width: 0px;
+    color: white;
+}
+
+.btn_hasil2 {
+    width: 180px;
+    background-color: rgb(31, 178, 204);
+    border-radius: 3px;
+    border-width: 0px;
+    color: white;
+}
+
+.btn_hasil3 {
+    width: 200px;
+    padding: 7px;
+    background-color: rgb(31, 178, 204);
+    border-radius: 3px;
+    border-width: 0px;
+    color: white;
+}
+
+.btn_hasil4 {
+    width: 180px;
+    padding: 7px;
+    background-color: rgb(31, 178, 204);
+    border-radius: 3px;
+    border-width: 0px;
+    color: white;
+}
+.btn_reset {
+    height: 35px;
+    width: 60px;
+}
+
+.satu {
+background-color: #dcdcdc;
+border-radius: 3px;
+height: 33px;
+border-style: groove;
+border-width: 2px;
+}
+
+.container {
+    display: flex;
+}
+.column {
+    flex: 1; /* Membuat kedua kolom memiliki ukuran yang sama */
+    padding: 20px;
+}
+.left-column {
+    background-color: #ffff;
+}
+.right-column {
+    background-color: #ffff;
+}
+
+.Hasil {
+    background-color: #f2f2f2;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    font-weight: normal;
+}
+
+.Hasil2 {
+    background-color: #f2f2f2;
+    height: 250px;
+    width: 100%;
+    text-align: center;
+}
